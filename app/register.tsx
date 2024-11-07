@@ -54,7 +54,7 @@ export default function Register ()  {
           <Text style={styles.register}>
            Ja tem uma conta?
           </Text>
-          <Link href={"/login"} style={styles.registerLink}>
+          <Link href={"/"} style={styles.registerLink}>
             Faça login
           </Link>
         </View>
